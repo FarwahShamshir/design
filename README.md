@@ -1,16 +1,18 @@
-# design
+# Flutter Login UI
 
-A new Flutter project.
+This is a simple Flutter project demonstrating a login UI with basic validation and animations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Customizable text fields
+- Visibility toggle for password
+- Animated loading indicator
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get started, clone the repo and install the dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/yourusername/flutter-login-ui.git
+cd flutter-login-ui
+flutter pub get
